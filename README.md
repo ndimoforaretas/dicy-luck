@@ -2,7 +2,10 @@
 
 ## Description:
 
-Dicy Luck is a two-player game where participants can roll a dice to accumulate points. Players must strategize between rolling the dice to increase their current score or passing their turn to secure their accumulated points. The game provides a visual interface showing the score, current score, and number of throws left for each player.
+Dicy Luck is a two-player game where participants can roll a dice to accumulate points.
+
+- Players must strategize between rolling the dice to increase their current score or passing their turn to secure their accumulated points.
+- The game provides a visual interface showing the score, current score, and number of throws left for each player.
 
 ## Features:
 
